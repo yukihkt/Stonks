@@ -9,7 +9,6 @@ Project leverages on SMU tBanks' APIs to buy/sell stocks through a customer's ac
 - Vue.js
 - Python
 - APIs
-- Firebase
 - SMU tBank
 - SQL
 
