@@ -35,3 +35,9 @@ python users.py
 python users_funds.py
 
 ```
+
+### Original Link
+https://github.com/jacky-teo/Stonks
+
+### Team members
+Jacky, Vasilis, Jerald, Hong Tao, Qing Yu, Yuki
